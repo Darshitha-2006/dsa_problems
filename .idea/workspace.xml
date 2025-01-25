@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f14cd175-edbd-423c-8cc8-0870eccb3fe9" name="Changes" comment="minimum size of SubArray whose sum is greater than or equal to slidingWindow">
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/AnagramList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/FruitsInBasket_SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/Indices_SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/LongestSubarrayKdistinct_SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/LongestSubstring_SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/NonRepeatingSubstring_SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/SlidingWindow_problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/SmallestSubstring_SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/SortedArraySq_TwoPointers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/TargetSum_TwoPointers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/ZeroSumTriplets_TwoPointer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,29 +50,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AnagramList.executor": "Run",
-    "Application.FruitsInBasket_SlidingWindow.executor": "Run",
-    "Application.LongestSubarrayKdistinct_SlidingWindow.executor": "Run",
-    "Application.LongestSubstring_SlidingWindow.executor": "Run",
-    "Application.NonRepeatingSubstring_SlidingWindow.executor": "Run",
-    "Application.SlidingWindow_problem1.executor": "Run",
-    "Application.SmallestSubstring_SlidingWindow.executor": "Run",
-    "Application.SortedArraySq_TwoPointers.executor": "Run",
-    "Application.TargetSum_TwoPointers.executor": "Run",
-    "Application.ZeroSumTriplets_TwoPointer.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnagramList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FruitsInBasket_SlidingWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubarrayKdistinct_SlidingWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstring_SlidingWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NonRepeatingSubstring_SlidingWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SlidingWindow_problem1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestSubstring_SlidingWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortedArraySq_TwoPointers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TargetSum_TwoPointers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZeroSumTriplets_TwoPointer.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.FruitsInBasket_SlidingWindow">
     <configuration name="FruitsInBasket_SlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="darshita.project.grokking_dsa.FruitsInBasket_SlidingWindow" />
       <module name="grokking_DSA" />
