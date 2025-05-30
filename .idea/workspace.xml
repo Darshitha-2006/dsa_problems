@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f14cd175-edbd-423c-8cc8-0870eccb3fe9" name="Changes" comment="pushed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/AllpathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/DFSpathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/MaximiseCapitals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/MedianHeaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/MedianOfSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/NumberOfpathsOfSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/SubarrayGeneration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/SumPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/levelOrderSiblings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/pathOfSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/GenerateValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/StringPermsCaseChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/singleElementXOR.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/dupSubsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/dupSubsequences.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,14 +59,19 @@
   "keyToString": {
     "Application.AllpathSum.executor": "Run",
     "Application.DFSpathSum.executor": "Run",
+    "Application.GenerateValidParenthesis.executor": "Run",
     "Application.MaximiseCapitals.executor": "Run",
     "Application.MedianHeaps.executor": "Run",
     "Application.MedianOfSubarray.executor": "Run",
     "Application.ProductLessThanTarget_TwoPointers.executor": "Run",
+    "Application.StringPermsCaseChange.executor": "Run",
     "Application.SubarrayGeneration.executor": "Run",
     "Application.SumPaths.executor": "Run",
     "Application.TripletSmallerSum.executor": "Run",
+    "Application.dupSubsequences.executor": "Run",
     "Application.pathOfSequence.executor": "Run",
+    "Application.permutations.executor": "Run",
+    "Application.singleElementXOR.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -107,7 +107,10 @@
       <workItem from="1742398988707" duration="101000" />
       <workItem from="1747980936992" duration="6664000" />
       <workItem from="1748066997646" duration="3252000" />
-      <workItem from="1748234703490" duration="9157000" />
+      <workItem from="1748234703490" duration="10712000" />
+      <workItem from="1748504312977" duration="1925000" />
+      <workItem from="1748521881878" duration="561000" />
+      <workItem from="1748587033369" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="pushed">
       <option name="closed" value="true" />
@@ -125,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740065948203</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pushed">
+      <option name="closed" value="true" />
+      <created>1748261576405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748261576405</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
