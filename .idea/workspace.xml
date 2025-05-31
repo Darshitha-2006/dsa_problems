@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f14cd175-edbd-423c-8cc8-0870eccb3fe9" name="Changes" comment="pushed">
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/GenerateValidParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/StringPermsCaseChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/singleElementXOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/ConnectingRopes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/ExpressionEvaluationCrcted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/ImageFlipInvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/KLargestNUmbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/KnearestPtsFromOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/KthLargestIntStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/KthSmallestNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/PsblTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/TopKFreqElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/expressionEvaluation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/dupSubsequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/darshita/project/grokking_dsa/dupSubsequences.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,17 +63,27 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AllpathSum.executor": "Run",
+    "Application.ConnectingRopes.executor": "Run",
     "Application.DFSpathSum.executor": "Run",
+    "Application.ExpressionEvaluationCrcted.executor": "Run",
     "Application.GenerateValidParenthesis.executor": "Run",
+    "Application.ImageFlipInvert.executor": "Run",
+    "Application.KLargestNUmbers.executor": "Run",
+    "Application.KnearestPtsFromOrigin.executor": "Run",
+    "Application.KthLargestIntStream.executor": "Run",
+    "Application.KthSmallestNum.executor": "Run",
     "Application.MaximiseCapitals.executor": "Run",
     "Application.MedianHeaps.executor": "Run",
     "Application.MedianOfSubarray.executor": "Run",
     "Application.ProductLessThanTarget_TwoPointers.executor": "Run",
+    "Application.PsblTrees.executor": "Run",
     "Application.StringPermsCaseChange.executor": "Run",
     "Application.SubarrayGeneration.executor": "Run",
     "Application.SumPaths.executor": "Run",
+    "Application.TopKFreqElements.executor": "Run",
     "Application.TripletSmallerSum.executor": "Run",
     "Application.dupSubsequences.executor": "Run",
+    "Application.expressionEvaluation.executor": "Run",
     "Application.pathOfSequence.executor": "Run",
     "Application.permutations.executor": "Run",
     "Application.singleElementXOR.executor": "Run",
@@ -110,7 +125,8 @@
       <workItem from="1748234703490" duration="10712000" />
       <workItem from="1748504312977" duration="1925000" />
       <workItem from="1748521881878" duration="561000" />
-      <workItem from="1748587033369" duration="632000" />
+      <workItem from="1748587033369" duration="4439000" />
+      <workItem from="1748591875499" duration="12382000" />
     </task>
     <task id="LOCAL-00001" summary="pushed">
       <option name="closed" value="true" />
@@ -136,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748261576405</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pushed">
+      <option name="closed" value="true" />
+      <created>1748587823419</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748587823419</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
